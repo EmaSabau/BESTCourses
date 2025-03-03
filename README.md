@@ -1,1 +1,1 @@
-To view the site click on this link [BESTCoursesSite] (https://emasabau.github.io/BESTCourses/)
+To view the site click on this link [BESTCoursesSite](https://emasabau.github.io/BESTCourses/)
